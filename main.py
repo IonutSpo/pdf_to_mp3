@@ -1,4 +1,4 @@
-# PDF parser
+# pdf to text
 from pdfminer.pdfpage import PDFPage
 from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
 from pdfminer.converter import TextConverter
